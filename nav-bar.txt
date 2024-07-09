@@ -1,0 +1,53 @@
+/* Nav Bar Style Start from Here */
+header .nav-bar {
+  height: 1440px;
+  height: 131px;
+  position: absolute;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+header .nav-bar h2 {
+  position: absolute;
+  width: 114px;
+  height: 34px;
+  left: 150px;
+  top: 50px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 33px;
+  letter-spacing: 0%;
+  text-align: left;
+  /* color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 33px;
+  letter-spacing: 0%;
+  text-align: left;
+  width: auto;
+  height: 34px;
+  left: 150px;
+  top: 50px; */
+}
+header .nav-bar button {
+  position: absolute;
+  width: 228px;
+  height: 58px;
+  left: 1046px;
+  top: 38px;
+}
+header .nav-bar button a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0%;
+  text-align: center;
+  padding: 17px 24px 17px 24px;
+}
+/* Nav Bar Style ends from here */
